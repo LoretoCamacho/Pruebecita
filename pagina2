@@ -1,0 +1,44 @@
+<!DOCTYPE html lang= "es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Loreto Camacho">
+   <meta name="description" content="En está página web os exponemos una opción mucho más sana y fácil de llevar acabo tus comidas, no somo una freidora de aire normal, sino una freidora con un recetario idóneo para ti">
+   <meta name="robots" content="index, follow">
+   <title>Página 2 - Recetas saludables</title>
+</head>
+<body>
+    <header>
+        <a href="index.html"> 
+         <img src="resources/images/logoprincipal.png" alt="Logotipo de marca"/>   
+        </a> 
+    </header>
+    <nav>
+        <ul>
+            <li><a href="pagina2.html">Página 2 - Recetas saludables</a></li>
+            <li><a href="pagina3.html">Página 3 - Recetas fáciles y deliciosas</a></li>
+            <li><a href="pagina4.html">Página 4 - ¿Cómo funcionaría?</a></li>    
+        </ul>
+    </nav>
+    <h1> Recetas saludables</h1>
+    <img src="resources/images/saludables.png" alt="Descripción de la imagen"/>
+    <p>Con la compra de una <strong>freidora de aire</strong> te regalamos un <strong>recetario que va integrado en ella</strong> con diversidad de opciones saludables y fáciles de hacer. Esta nueva versión de freidora te proporciona todas las recetas que puedansnecesitar y no se queda solo ahí, cada mes podrás <strong>actualizarla para obtener el nuevo paquete de recetas.</strong> Podras escoger una receta para <em> cada día de la semana </em> sin tener que preocuparte por los ingredientes o cantidades, la mayoría de ellas están pensadas con elaboraciones que no son nada complejas y se hacen con la freidora de aire. De esta forma podrás <em>comer sano</em> aunque no tengas mucho tiempo para cocinar, en cuestion de <strong>30/40 minutos</strong> tendrás un plato rico y apropiado en la mesa.<strong> Nos comprometemos a que todas las recetes que te ofrecemos seán idonea para cocinarlas cualquier jovén incluso tu amigo el que no sabe ni encender el microondas</strong>.</p>
+    <ol>
+    <li>Berenjenas rellenas de carne</li> (disponible para celiacos)
+    <li>Verduras variadas crujientes</li>
+    <li>Palitos de aguacate con un toque crocanti</li>
+    <li>Garbanzos con especias</li>
+    <li>Pimientos rellenos</li> (Dispoible para celiacos)
+    <li>Croquetas de brócoli</li> (dispoinible para celiacos)
+    <Li>Salmón al limón con ajo</Li>
+    <li>Anillos de manzana con canela</li>
+    </ol>
+    <section></section>
+        <h2>Empieza desde ahora:</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JC5xg7s-zWE?si=el8W3lrbQyDDB-je" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+    <footer>
+        <p>Contacto:<strong>freidorasanas@correo.com</strong></p>
+        <p>Instagram:<strong>Comidarealsimcomplicaciones</strong></p>
+    </footer>
+
+</body>
